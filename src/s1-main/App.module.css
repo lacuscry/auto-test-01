@@ -4,6 +4,8 @@
     max-width: 1160px;
     margin: auto;
     padding: 15px;
+    display: grid;
+    gap: 80px;
     font-family: 'Montserrat', sans-serif;
 }
 
